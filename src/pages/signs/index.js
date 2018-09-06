@@ -1,0 +1,1 @@
+export default () => (<div>show all signs</div>)

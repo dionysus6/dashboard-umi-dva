@@ -1,0 +1,1 @@
+export default () => (<div>create a new sign</div>)
